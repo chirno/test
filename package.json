@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "A test repository",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chirno/test.git"
+  },
+  "author": "Chirno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chirno/test/issues"
+  },
+  "homepage": "https://github.com/chirno/test#readme"
+}
