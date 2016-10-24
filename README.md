@@ -10,3 +10,8 @@ Info on browser-sync can be found at the following website.
 	https://www.browsersync.io/docs/gulp
 
 In cmd you can try using gulp in this directory and it should launch a server that displays our index.html file by default. Try it out :P
+
+Some information on different aspects of bootstrap can be found here:
+	
+	https://getbootstrap.com/components/
+	http://www.w3schools.com/bootstrap/default.asp
