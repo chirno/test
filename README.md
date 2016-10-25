@@ -1,6 +1,6 @@
-To run, use shift+right click in folder to open cmd in local directory. 
+To run, use shift+right click in folder and open cmd in local directory. 
 
-		Type in npm install. This should install all developer dependencies stated in package.json. 
+		Type in npm install to install all developer dependencies stated in package.json. 
 
 		Then type in gulp to run. 
 
