@@ -1,3 +1,10 @@
+To run, use shift+right click in folder to open cmd in local directory. 
+
+		Type in npm install. This should install all developer dependencies stated in package.json. 
+
+		Then type in gulp to run. 
+
+
 First off we need to install node.js so if you haven't done that then you will need to do that.
 
 Information about setting up gulp can be found at the following website. 
